@@ -113,7 +113,7 @@ if name in users.keys():
                 print(separator)
 
                 lenght = max(occurence.values()) + 1
-                print("LEN|", "OCCURENCY".center(lenght), "|NR.")
+                print("LEN|", "OCCURENCE".center(lenght), "|NR.")
 
                 print(separator)
 
